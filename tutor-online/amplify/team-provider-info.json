@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tutor-online-dev-15150-authRole",
+            "UnauthRoleArn": "arn:aws:iam::670348466469:role/amplify-tutor-online-dev-15150-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::670348466469:role/amplify-tutor-online-dev-15150-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-tutor-online-dev-15150-deployment",
+            "UnauthRoleName": "amplify-tutor-online-dev-15150-unauthRole",
+            "StackName": "amplify-tutor-online-dev-15150",
+            "StackId": "arn:aws:cloudformation:us-east-2:670348466469:stack/amplify-tutor-online-dev-15150/1e704b60-777b-11ea-9ba8-027927fac094",
+            "AmplifyAppId": "d1841tbtod5jcy"
+        },
+        "categories": {
+            "auth": {
+                "tutoronlinec43b46e6": {}
+            }
+        }
+    }
+}
